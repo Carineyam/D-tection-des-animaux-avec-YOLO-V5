@@ -1,1 +1,1 @@
-# D-tection-des-animaux-avec-YOLO-V5
+# Detection-des-animaux-avec-YOLO-V5
